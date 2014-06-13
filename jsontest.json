@@ -1,0 +1,688 @@
+[
+{
+    "start_date": "2014-02-01T00:00:00Z",
+    "end_date": "2014-02-25T00:00:00Z",
+    "with_metadata": true,
+    "with_conversions": false,
+    "filters": [],
+    "group_by": "awesm_id",
+    "sort_type": "clicks",
+    "sort_order": "desc",
+    "pivot": null,
+    "with_zeros": false,
+    "pivot_sort_type": null,
+    "pivot_sort_order": null,
+    "page": 1,
+    "per_page": 10,
+    "total_results": 202,
+    "offset": 0,
+    "last_offset": 10,
+    "totals": {
+        "clicks": 4582,
+        "shares": 202,
+        "clicks_per_share": 22.6832
+    },
+    "groups": [
+        {
+            "clicks": 315,
+            "shares": 1,
+            "clicks_per_share": 315,
+            "metadata": {
+                "account_id": 193057,
+                "application": "awesm",
+                "application_metadata": {
+                    "name": "awesm",
+                    "icon_url": "http://s3.amazonaws.com/public.awe.sm/img/applications/awesm_icon.png",
+                    "icon_small_url": "http://s3.amazonaws.com/public.awe.sm/img/applications/awesm_icon_small.png"
+                },
+                "awesm_url": "http://splk.it/gH",
+                "campaign": null,
+                "campaign_metadata": {
+                    "name": null,
+                    "description": null
+                },
+                "channel": "linkedin-share",
+                "created_at": "2014-02-10T18:48:50Z",
+                "domain": "splk.it",
+                "notes": null,
+                "original_url": "http://www.fastcompany.com/most-innovative-companies/2014/industry/big-data",
+                "original_url_metadata": {
+                    "title": "The World's Top 10 Most Innovative Companies in Big Data | Fast Company | Business + Innovation",
+                    "description": "According to one projection, the sales of big-data-related products and services grew to more than $18 billion in 2013. Companies can now map your...",
+                    "icon_url": "http://www.fastcompany.com/favicon.ico"
+                },
+                "parent": null,
+                "path": "gH",
+                "redirect_url": "http://www.fastcompany.com/most-innovative-companies/2014/industry/big-data",
+                "service": "linkedin",
+                "service_metadata": [],
+                "service_postid": null,
+                "service_postid_metadata": {
+                    "shared_at": null,
+                    "reach": null
+                },
+                "service_userid": null,
+                "sharer_id": "63cb26f2-e860-488b-a495-c1fe3d975dec",
+                "sharer_id_metadata": {
+                    "username": "invitee_13863632227",
+                    "real_name": "Amelia Mango"
+                },
+                "tag": null,
+                "tag_2": null,
+                "tag_3": null,
+                "tag_4": null,
+                "tag_5": null,
+                "tool": "awesm-inlinelinkcreator",
+                "tool_metadata": {
+                    "name": "awesm-inlinelinkcreator",
+                    "description": "Inline Link Creator",
+                    "application": "awesm"
+                },
+                "updated_at": "2014-02-10T18:48:50Z",
+                "user_id": null,
+                "user_id_metadata": {
+                    "username": null,
+                    "profile_url": null,
+                    "icon_url": null
+                },
+                "username": "invitee_13863632227"
+            },
+            "awesm_id": "splk.it_gH"
+        },
+        {
+            "clicks": 210,
+            "shares": 1,
+            "clicks_per_share": 210,
+            "metadata": {
+                "account_id": 193057,
+                "application": "awesm",
+                "application_metadata": {
+                    "name": "awesm",
+                    "icon_url": "http://s3.amazonaws.com/public.awe.sm/img/applications/awesm_icon.png",
+                    "icon_small_url": "http://s3.amazonaws.com/public.awe.sm/img/applications/awesm_icon_small.png"
+                },
+                "awesm_url": "http://splk.it/rH",
+                "campaign": null,
+                "campaign_metadata": {
+                    "name": null,
+                    "description": null
+                },
+                "channel": "twitter",
+                "created_at": "2014-02-04T17:59:03Z",
+                "domain": "splk.it",
+                "notes": null,
+                "original_url": "http://info.hortonworks.com/360degreeapplication_splunk_HDP.html",
+                "original_url_metadata": {
+                    "title": null,
+                    "description": null,
+                    "icon_url": null
+                },
+                "parent": null,
+                "path": "rH",
+                "redirect_url": "http://info.hortonworks.com/360degreeapplication_splunk_HDP.html",
+                "service": "twitter",
+                "service_metadata": [],
+                "service_postid": "twitter:438705022172295168",
+                "service_postid_metadata": {
+                    "shared_at": "2014-02-26T16:00:03Z",
+                    "reach": "8826"
+                },
+                "service_userid": "twitter:12447792",
+                "sharer_id": "63cb26f2-e860-488b-a495-c1fe3d975dec",
+                "sharer_id_metadata": {
+                    "username": "invitee_13863632227",
+                    "real_name": "Amelia Mango"
+                },
+                "tag": null,
+                "tag_2": null,
+                "tag_3": null,
+                "tag_4": null,
+                "tag_5": null,
+                "tool": "awesm-inlinelinkcreator",
+                "tool_metadata": {
+                    "name": "awesm-inlinelinkcreator",
+                    "description": "Inline Link Creator",
+                    "application": "awesm"
+                },
+                "updated_at": "2014-02-26T16:00:03Z",
+                "user_id": null,
+                "user_id_metadata": {
+                    "username": null,
+                    "profile_url": null,
+                    "icon_url": null
+                },
+                "username": "invitee_13863632227"
+            },
+            "awesm_id": "splk.it_rH"
+        },
+        {
+            "clicks": 208,
+            "shares": 1,
+            "clicks_per_share": 208,
+            "metadata": {
+                "account_id": 193057,
+                "application": "awesm",
+                "application_metadata": {
+                    "name": "awesm",
+                    "icon_url": "http://s3.amazonaws.com/public.awe.sm/img/applications/awesm_icon.png",
+                    "icon_small_url": "http://s3.amazonaws.com/public.awe.sm/img/applications/awesm_icon_small.png"
+                },
+                "awesm_url": "http://splk.it/h8",
+                "campaign": null,
+                "campaign_metadata": {
+                    "name": null,
+                    "description": null
+                },
+                "channel": "linkedin-share",
+                "created_at": "2014-01-24T01:49:12Z",
+                "domain": "splk.it",
+                "notes": null,
+                "original_url": "https://splunkevents.webex.com/splunkevents/onstage/g.php?t=a&d=661224556&sourceid=social",
+                "original_url_metadata": {
+                    "title": null,
+                    "description": null,
+                    "icon_url": null
+                },
+                "parent": null,
+                "path": "h8",
+                "redirect_url": "https://splunkevents.webex.com/splunkevents/onstage/g.php?t=a&d=661224556&sourceid=social",
+                "service": "linkedin",
+                "service_metadata": [],
+                "service_postid": null,
+                "service_postid_metadata": {
+                    "shared_at": null,
+                    "reach": null
+                },
+                "service_userid": null,
+                "sharer_id": "44481116-5b50-46a9-87e6-391e69c5b401",
+                "sharer_id_metadata": {
+                    "username": "invitee_13893904883",
+                    "real_name": "Bridget"
+                },
+                "tag": null,
+                "tag_2": null,
+                "tag_3": null,
+                "tag_4": null,
+                "tag_5": null,
+                "tool": "awesm-inlinelinkcreator",
+                "tool_metadata": {
+                    "name": "awesm-inlinelinkcreator",
+                    "description": "Inline Link Creator",
+                    "application": "awesm"
+                },
+                "updated_at": "2014-01-24T01:49:12Z",
+                "user_id": null,
+                "user_id_metadata": {
+                    "username": null,
+                    "profile_url": null,
+                    "icon_url": null
+                },
+                "username": "invitee_13893904883"
+            },
+            "awesm_id": "splk.it_h8"
+        },
+        {
+            "clicks": 160,
+            "shares": 1,
+            "clicks_per_share": 160,
+            "metadata": {
+                "account_id": 193057,
+                "application": "awesm",
+                "application_metadata": {
+                    "name": "awesm",
+                    "icon_url": "http://s3.amazonaws.com/public.awe.sm/img/applications/awesm_icon.png",
+                    "icon_small_url": "http://s3.amazonaws.com/public.awe.sm/img/applications/awesm_icon_small.png"
+                },
+                "awesm_url": "http://splk.it/i9",
+                "campaign": null,
+                "campaign_metadata": {
+                    "name": null,
+                    "description": null
+                },
+                "channel": "twitter",
+                "created_at": "2014-01-24T01:48:41Z",
+                "domain": "splk.it",
+                "notes": null,
+                "original_url": "https://splunkevents.webex.com/splunkevents/onstage/g.php?t=a&d=661224556&sourceid=social",
+                "original_url_metadata": {
+                    "title": null,
+                    "description": null,
+                    "icon_url": null
+                },
+                "parent": null,
+                "path": "i9",
+                "redirect_url": "https://splunkevents.webex.com/splunkevents/onstage/g.php?t=a&d=661224556&sourceid=social",
+                "service": "twitter",
+                "service_metadata": [],
+                "service_postid": "twitter:436594859558715392",
+                "service_postid_metadata": {
+                    "shared_at": "2014-02-20T20:15:01Z",
+                    "reach": "8747"
+                },
+                "service_userid": "twitter:12447792",
+                "sharer_id": "44481116-5b50-46a9-87e6-391e69c5b401",
+                "sharer_id_metadata": {
+                    "username": "invitee_13893904883",
+                    "real_name": "Bridget"
+                },
+                "tag": null,
+                "tag_2": null,
+                "tag_3": null,
+                "tag_4": null,
+                "tag_5": null,
+                "tool": "awesm-inlinelinkcreator",
+                "tool_metadata": {
+                    "name": "awesm-inlinelinkcreator",
+                    "description": "Inline Link Creator",
+                    "application": "awesm"
+                },
+                "updated_at": "2014-02-20T20:15:03Z",
+                "user_id": null,
+                "user_id_metadata": {
+                    "username": null,
+                    "profile_url": null,
+                    "icon_url": null
+                },
+                "username": "invitee_13893904883"
+            },
+            "awesm_id": "splk.it_i9"
+        },
+        {
+            "clicks": 131,
+            "shares": 1,
+            "clicks_per_share": 131,
+            "metadata": {
+                "account_id": 193057,
+                "application": "awesm",
+                "application_metadata": {
+                    "name": "awesm",
+                    "icon_url": "http://s3.amazonaws.com/public.awe.sm/img/applications/awesm_icon.png",
+                    "icon_small_url": "http://s3.amazonaws.com/public.awe.sm/img/applications/awesm_icon_small.png"
+                },
+                "awesm_url": "http://splk.it/tG",
+                "campaign": null,
+                "campaign_metadata": {
+                    "name": null,
+                    "description": null
+                },
+                "channel": "linkedin-share",
+                "created_at": "2014-01-28T18:07:48Z",
+                "domain": "splk.it",
+                "notes": null,
+                "original_url": "http://strataconf.com/strata2014/public/schedule/detail/33570",
+                "original_url_metadata": {
+                    "title": "How Comcast Turns Big Data into Real-Time Operational Insights: Strata 2014 - O'Reilly Conferences, February 11 - 13, 2014, Santa Clara, CA",
+                    "description": null,
+                    "icon_url": "http://strataconf.com/favicon.ico"
+                },
+                "parent": null,
+                "path": "tG",
+                "redirect_url": "http://strataconf.com/strata2014/public/schedule/detail/33570",
+                "service": "linkedin",
+                "service_metadata": [],
+                "service_postid": null,
+                "service_postid_metadata": {
+                    "shared_at": null,
+                    "reach": null
+                },
+                "service_userid": null,
+                "sharer_id": "63cb26f2-e860-488b-a495-c1fe3d975dec",
+                "sharer_id_metadata": {
+                    "username": "invitee_13863632227",
+                    "real_name": "Amelia Mango"
+                },
+                "tag": null,
+                "tag_2": null,
+                "tag_3": null,
+                "tag_4": null,
+                "tag_5": null,
+                "tool": "awesm-inlinelinkcreator",
+                "tool_metadata": {
+                    "name": "awesm-inlinelinkcreator",
+                    "description": "Inline Link Creator",
+                    "application": "awesm"
+                },
+                "updated_at": "2014-01-28T18:07:48Z",
+                "user_id": null,
+                "user_id_metadata": {
+                    "username": null,
+                    "profile_url": null,
+                    "icon_url": null
+                },
+                "username": "invitee_13863632227"
+            },
+            "awesm_id": "splk.it_tG"
+        },
+        {
+            "clicks": 117,
+            "shares": 1,
+            "clicks_per_share": 117,
+            "metadata": {
+                "account_id": 193057,
+                "application": "awesm",
+                "application_metadata": {
+                    "name": "awesm",
+                    "icon_url": "http://s3.amazonaws.com/public.awe.sm/img/applications/awesm_icon.png",
+                    "icon_small_url": "http://s3.amazonaws.com/public.awe.sm/img/applications/awesm_icon_small.png"
+                },
+                "awesm_url": "http://splk.it/qA",
+                "campaign": null,
+                "campaign_metadata": {
+                    "name": null,
+                    "description": null
+                },
+                "channel": "twitter",
+                "created_at": "2014-01-24T01:20:39Z",
+                "domain": "splk.it",
+                "notes": null,
+                "original_url": "https://splunkevents.webex.com/splunkevents/onstage/g.php?t=a&d=667168810&sourceid=social",
+                "original_url_metadata": {
+                    "title": null,
+                    "description": null,
+                    "icon_url": null
+                },
+                "parent": null,
+                "path": "qA",
+                "redirect_url": "https://splunkevents.webex.com/splunkevents/onstage/g.php?t=a&d=667168810&sourceid=social",
+                "service": "twitter",
+                "service_metadata": [],
+                "service_postid": "twitter:433654233733148672",
+                "service_postid_metadata": {
+                    "shared_at": "2014-02-12T17:30:01Z",
+                    "reach": "8688"
+                },
+                "service_userid": "twitter:12447792",
+                "sharer_id": "44481116-5b50-46a9-87e6-391e69c5b401",
+                "sharer_id_metadata": {
+                    "username": "invitee_13893904883",
+                    "real_name": "Bridget"
+                },
+                "tag": null,
+                "tag_2": null,
+                "tag_3": null,
+                "tag_4": null,
+                "tag_5": null,
+                "tool": "awesm-inlinelinkcreator",
+                "tool_metadata": {
+                    "name": "awesm-inlinelinkcreator",
+                    "description": "Inline Link Creator",
+                    "application": "awesm"
+                },
+                "updated_at": "2014-02-12T17:30:02Z",
+                "user_id": null,
+                "user_id_metadata": {
+                    "username": null,
+                    "profile_url": null,
+                    "icon_url": null
+                },
+                "username": "invitee_13893904883"
+            },
+            "awesm_id": "splk.it_qA"
+        },
+        {
+            "clicks": 98,
+            "shares": 1,
+            "clicks_per_share": 98,
+            "metadata": {
+                "account_id": 193057,
+                "application": "awesm",
+                "application_metadata": {
+                    "name": "awesm",
+                    "icon_url": "http://s3.amazonaws.com/public.awe.sm/img/applications/awesm_icon.png",
+                    "icon_small_url": "http://s3.amazonaws.com/public.awe.sm/img/applications/awesm_icon_small.png"
+                },
+                "awesm_url": "http://splk.it/c9",
+                "campaign": null,
+                "campaign_metadata": {
+                    "name": null,
+                    "description": null
+                },
+                "channel": "linkedin-share",
+                "created_at": "2014-01-24T01:46:42Z",
+                "domain": "splk.it",
+                "notes": null,
+                "original_url": "https://splunkevents.webex.com/splunkevents/onstage/g.php?t=a&d=666433828&sourceid=social",
+                "original_url_metadata": {
+                    "title": null,
+                    "description": null,
+                    "icon_url": null
+                },
+                "parent": null,
+                "path": "c9",
+                "redirect_url": "https://splunkevents.webex.com/splunkevents/onstage/g.php?t=a&d=666433828&sourceid=social",
+                "service": "linkedin",
+                "service_metadata": [],
+                "service_postid": null,
+                "service_postid_metadata": {
+                    "shared_at": null,
+                    "reach": null
+                },
+                "service_userid": null,
+                "sharer_id": "44481116-5b50-46a9-87e6-391e69c5b401",
+                "sharer_id_metadata": {
+                    "username": "invitee_13893904883",
+                    "real_name": "Bridget"
+                },
+                "tag": null,
+                "tag_2": null,
+                "tag_3": null,
+                "tag_4": null,
+                "tag_5": null,
+                "tool": "awesm-inlinelinkcreator",
+                "tool_metadata": {
+                    "name": "awesm-inlinelinkcreator",
+                    "description": "Inline Link Creator",
+                    "application": "awesm"
+                },
+                "updated_at": "2014-01-24T01:46:42Z",
+                "user_id": null,
+                "user_id_metadata": {
+                    "username": null,
+                    "profile_url": null,
+                    "icon_url": null
+                },
+                "username": "invitee_13893904883"
+            },
+            "awesm_id": "splk.it_c9"
+        },
+        {
+            "clicks": 94,
+            "shares": 1,
+            "clicks_per_share": 94,
+            "metadata": {
+                "account_id": 193057,
+                "application": "awesm",
+                "application_metadata": {
+                    "name": "awesm",
+                    "icon_url": "http://s3.amazonaws.com/public.awe.sm/img/applications/awesm_icon.png",
+                    "icon_small_url": "http://s3.amazonaws.com/public.awe.sm/img/applications/awesm_icon_small.png"
+                },
+                "awesm_url": "http://splk.it/bE",
+                "campaign": null,
+                "campaign_metadata": {
+                    "name": null,
+                    "description": null
+                },
+                "channel": "linkedin-share",
+                "created_at": "2014-02-01T00:59:57Z",
+                "domain": "splk.it",
+                "notes": null,
+                "original_url": "http://www.splunk.com/view/SP-CAAAH8H",
+                "original_url_metadata": {
+                    "title": "Slicing Data For Domino's Pizza | Splunk",
+                    "description": "Splunk indexes and makes searchable data from any app, server or network device in real time including logs, config files, messages, alerts, scripts and metrics.",
+                    "icon_url": "http://www.splunk.com/favicon.ico"
+                },
+                "parent": null,
+                "path": "bE",
+                "redirect_url": "http://www.splunk.com/view/SP-CAAAH8H?awesm=splk.it_bE",
+                "service": "linkedin",
+                "service_metadata": [],
+                "service_postid": null,
+                "service_postid_metadata": {
+                    "shared_at": null,
+                    "reach": null
+                },
+                "service_userid": null,
+                "sharer_id": "63cb26f2-e860-488b-a495-c1fe3d975dec",
+                "sharer_id_metadata": {
+                    "username": "invitee_13863632227",
+                    "real_name": "Amelia Mango"
+                },
+                "tag": null,
+                "tag_2": null,
+                "tag_3": null,
+                "tag_4": null,
+                "tag_5": null,
+                "tool": "awesm-inlinelinkcreator",
+                "tool_metadata": {
+                    "name": "awesm-inlinelinkcreator",
+                    "description": "Inline Link Creator",
+                    "application": "awesm"
+                },
+                "updated_at": "2014-02-01T00:59:57Z",
+                "user_id": null,
+                "user_id_metadata": {
+                    "username": null,
+                    "profile_url": null,
+                    "icon_url": null
+                },
+                "username": "invitee_13863632227"
+            },
+            "awesm_id": "splk.it_bE"
+        },
+        {
+            "clicks": 94,
+            "shares": 1,
+            "clicks_per_share": 94,
+            "metadata": {
+                "account_id": 193057,
+                "application": "awesm",
+                "application_metadata": {
+                    "name": "awesm",
+                    "icon_url": "http://s3.amazonaws.com/public.awe.sm/img/applications/awesm_icon.png",
+                    "icon_small_url": "http://s3.amazonaws.com/public.awe.sm/img/applications/awesm_icon_small.png"
+                },
+                "awesm_url": "http://splk.it/rK",
+                "campaign": null,
+                "campaign_metadata": {
+                    "name": null,
+                    "description": null
+                },
+                "channel": "linkedin-share",
+                "created_at": "2014-02-04T19:00:20Z",
+                "domain": "splk.it",
+                "notes": null,
+                "original_url": "http://info.hortonworks.com/360degreeapplication_splunk_HDP.html",
+                "original_url_metadata": {
+                    "title": null,
+                    "description": null,
+                    "icon_url": null
+                },
+                "parent": null,
+                "path": "rK",
+                "redirect_url": "http://info.hortonworks.com/360degreeapplication_splunk_HDP.html",
+                "service": "linkedin",
+                "service_metadata": [],
+                "service_postid": null,
+                "service_postid_metadata": {
+                    "shared_at": null,
+                    "reach": null
+                },
+                "service_userid": null,
+                "sharer_id": "63cb26f2-e860-488b-a495-c1fe3d975dec",
+                "sharer_id_metadata": {
+                    "username": "invitee_13863632227",
+                    "real_name": "Amelia Mango"
+                },
+                "tag": null,
+                "tag_2": null,
+                "tag_3": null,
+                "tag_4": null,
+                "tag_5": null,
+                "tool": "awesm-inlinelinkcreator",
+                "tool_metadata": {
+                    "name": "awesm-inlinelinkcreator",
+                    "description": "Inline Link Creator",
+                    "application": "awesm"
+                },
+                "updated_at": "2014-02-04T19:00:20Z",
+                "user_id": null,
+                "user_id_metadata": {
+                    "username": null,
+                    "profile_url": null,
+                    "icon_url": null
+                },
+                "username": "invitee_13863632227"
+            },
+            "awesm_id": "splk.it_rK"
+        },
+        {
+            "clicks": 88,
+            "shares": 1,
+            "clicks_per_share": 88,
+            "metadata": {
+                "account_id": 193057,
+                "application": "awesm",
+                "application_metadata": {
+                    "name": "awesm",
+                    "icon_url": "http://s3.amazonaws.com/public.awe.sm/img/applications/awesm_icon.png",
+                    "icon_small_url": "http://s3.amazonaws.com/public.awe.sm/img/applications/awesm_icon_small.png"
+                },
+                "awesm_url": "http://splk.it/aB",
+                "campaign": null,
+                "campaign_metadata": {
+                    "name": null,
+                    "description": null
+                },
+                "channel": "twitter",
+                "created_at": "2014-01-28T18:07:47Z",
+                "domain": "splk.it",
+                "notes": null,
+                "original_url": "http://strataconf.com/strata2014/public/schedule/detail/33570",
+                "original_url_metadata": {
+                    "title": "How Comcast Turns Big Data into Real-Time Operational Insights: Strata 2014 - O'Reilly Conferences, February 11 - 13, 2014, Santa Clara, CA",
+                    "description": null,
+                    "icon_url": "http://strataconf.com/favicon.ico"
+                },
+                "parent": null,
+                "path": "aB",
+                "redirect_url": "http://strataconf.com/strata2014/public/schedule/detail/33570",
+                "service": "twitter",
+                "service_metadata": [],
+                "service_postid": "twitter:434013851965591553",
+                "service_postid_metadata": {
+                    "shared_at": "2014-02-13T17:19:00Z",
+                    "reach": "8664"
+                },
+                "service_userid": "twitter:12447792",
+                "sharer_id": "63cb26f2-e860-488b-a495-c1fe3d975dec",
+                "sharer_id_metadata": {
+                    "username": "invitee_13863632227",
+                    "real_name": "Amelia Mango"
+                },
+                "tag": null,
+                "tag_2": null,
+                "tag_3": null,
+                "tag_4": null,
+                "tag_5": null,
+                "tool": "awesm-inlinelinkcreator",
+                "tool_metadata": {
+                    "name": "awesm-inlinelinkcreator",
+                    "description": "Inline Link Creator",
+                    "application": "awesm"
+                },
+                "updated_at": "2014-02-13T17:19:01Z",
+                "user_id": null,
+                "user_id_metadata": {
+                    "username": null,
+                    "profile_url": null,
+                    "icon_url": null
+                },
+                "username": "invitee_13863632227"
+            },
+            "awesm_id": "splk.it_aB"
+        }
+    ]
+}
+]
